@@ -1,0 +1,29 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Gradle files
+out/
+build/
+.gradle/
+
+# Kotlin 2.0
+.kotlin/
+
+# Project specific
+/src/main/resources
