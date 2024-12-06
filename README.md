@@ -6,6 +6,9 @@ https://adventofcode.com/2024
 * Gradle
 * JDK 21
 
+> **Note**
+> The resources folder are not check in, to make it harder for others to steal the great work of AOC(https://adventofcode.com) 
+
 ## Local development started
 
 ### Prerequisites
